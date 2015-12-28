@@ -1,3 +1,4 @@
 print("Helloworld")
-print("hellworld");
+print("hellworld")
+print("fucking man")
 input()
